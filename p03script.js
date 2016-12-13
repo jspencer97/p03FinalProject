@@ -8,9 +8,9 @@ var fri;
 var sat;
 var sund;
 
-function addArray() {
-var weekdays = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
-document.getElementById("array").innerHTML = weekdays;
+function addArray(){
+  var weekdays = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
+  document.getElementById("array").innerHTML = weekdays;
 }
 
 
