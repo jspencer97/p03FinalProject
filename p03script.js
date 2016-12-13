@@ -9,7 +9,7 @@ var sat;
 var sund;
 
 var weekdays = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"];
-document.getElementById("array").innerHTML = weekdays
+document.getElementById("array").innerHTML = weekdays;
 
 
 
